@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -164,14 +164,13 @@ A few Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/tafiti-org/Subsytems/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+
+[forks-shield]: https://img.shields.io/github/forks/tafiti-org/Subsytems?style=for-the-badge
 [forks-url]: https://github.com/tafiti-org/Subsytems/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tafiti-org/Subsytems?style=for-the-badge
 [stars-url]: https://github.com/tafiti-org/Subsytems/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/tafiti-org/Subsytems?style=for-the-badge
 [issues-url]: https://github.com/tafiti-org/Subsytems/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/tafiti-org/Subsytems?style=for-the-badge
+[license-url]: https://github.com/tafiti-org/Subsytems/blob/main/LICENSE
 [product-screenshot]: images/OBC.jpg
