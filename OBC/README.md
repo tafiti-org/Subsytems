@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![OBC Screen Shot][product-screenshot]](https://example.com)
+[![OBC Screen Shot][product-screenshot]](https://tafiti-org.github.io)
 
 We are a consortium of Kenyan University Students seeking to provide a nanosatellite solution to solve some of Kenya's most challenging problems.
 <br>
@@ -91,7 +91,7 @@ This repo focuses on the On-Board Computing Subsytem of the Nanosatellite.
 
 Some useful links and Docs related to the OBC
 
-- Bill of Materials - [BOM](https://docs.google.com/document/d/1esgKfZcyvfg3M8btrjpVDSdT7cQNn-XASvzqtfd8rOg/edit#)
+- Bill of Materials - [BOM](https://docs.google.com/document/d/1esgKfZcyvfg3M8btrjpVDSdT7cQNn-XASvzqtfd8rOg/edit?usp=sharing)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
