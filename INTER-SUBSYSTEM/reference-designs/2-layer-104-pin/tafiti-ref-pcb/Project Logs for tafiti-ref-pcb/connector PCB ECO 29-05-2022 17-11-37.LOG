@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=H1
+Change Component Designator: OldDesignator=J2 NewDesignator=H2
+Added Member To Class: ClassName=connector Member=Component H1 SSQ-126-22-G-D
+Added Member To Class: ClassName=connector Member=Component H2 SSQ-126-22-G-D

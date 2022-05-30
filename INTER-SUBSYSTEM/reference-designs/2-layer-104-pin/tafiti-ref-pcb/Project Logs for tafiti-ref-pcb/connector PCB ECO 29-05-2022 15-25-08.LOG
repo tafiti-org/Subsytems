@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Member To Class: ClassName=connector Member=Component J1 ESQ-126-23-T-D
+Added Member To Class: ClassName=connector Member=Component J2 ESQ-126-23-T-D
