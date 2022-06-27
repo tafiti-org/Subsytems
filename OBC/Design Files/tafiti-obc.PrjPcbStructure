@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=OTHER_PARTS.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=CONNECTOR.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CONNECTOR.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CONNECTOR.SchDoc|FileName=OTHER_PARTS.SchDoc|SheetNumber=2
