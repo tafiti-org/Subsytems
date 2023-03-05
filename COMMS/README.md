@@ -31,7 +31,17 @@ The data to be transferred includes:
 - Commands
 
 ## Requirements
-
+- Receive housekeeping data from the OBC. This data will effectively be a collection of data from all other subsystems.
+- Receive payload data from the Payload subsystem.
+- Provide a communication link for the transfer of housekeeping data and payload data from the Cubesat to the 
+ground terminal. 
+- Provide a link to send telecommands from the ground to the cubesat. This will be a bi-directional communication.
+- Provide an interface to view received data and key in commands.
+- Allow for data storage onboard the cubesat and on the ground station.
+- Provide an API to transfer data over Web.
+- Should be portable.
+- Data transfer rates should be fast.
+- Long range.
 ## Development procedure
 
 ## Software Development
