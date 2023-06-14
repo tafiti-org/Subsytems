@@ -1620,7 +1620,7 @@
       (net 61 "CS") (pinfunction "~{NSS}") (pintype "input") (tstamp fa83e509-4483-4666-b8b8-9f5673c097ad))
     (pad "16" smd rect (at 8 -7 180) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "GND") (pintype "passive") (tstamp 96f11277-0ccb-4774-8dad-4c5474a80192))
-    (model "C:/Users/MAC/Downloads/Ra-02 LoRa--3DModel-STEP-1.STEP"
+    (model "D:/Tafiti/Subsytems/COMMS/3D Models/Ra-02 LoRa--3DModel-STEP-1.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3106,7 +3106,7 @@
       (net 27 "unconnected-(J2-Shield-Pad6)") (pinfunction "Shield") (pintype "passive+no_connect") (tstamp 220fe436-548d-4add-bd6f-f9f4cd7955a1))
     (pad "6" thru_hole oval (at 3.875 1.95) (size 1.15 1.8) (drill oval 0.55 1.2) (layers "*.Cu" "*.Mask")
       (net 27 "unconnected-(J2-Shield-Pad6)") (pinfunction "Shield") (pintype "passive+no_connect") (tstamp a6bdb857-daba-4f1c-9cbf-0634602c4967))
-    (model "C:/Users/MAC/Downloads/629105150521 (rev1).stp"
+    (model "D:/Tafiti/Subsytems/COMMS/3D Models/629105150521 (rev1).stp"
       (offset (xyz 0 1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4438,7 +4438,7 @@
       (net 25 "unconnected-(J1-Shield-Pad6)") (pinfunction "Shield") (pintype "passive+no_connect") (tstamp 2a9b51e0-2a3b-435e-bf02-44f1d362c915))
     (pad "6" thru_hole oval (at 3.875 1.95 90) (size 1.15 1.8) (drill oval 0.55 1.2) (layers "*.Cu" "*.Mask")
       (net 25 "unconnected-(J1-Shield-Pad6)") (pinfunction "Shield") (pintype "passive+no_connect") (tstamp 54a3cc2a-2049-4ad6-946c-996916f7d1c0))
-    (model "C:/Users/MAC/Downloads/629105150521 (rev1).stp"
+    (model "D:/Tafiti/Subsytems/COMMS/3D Models/629105150521 (rev1).stp"
       (offset (xyz 0 1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
